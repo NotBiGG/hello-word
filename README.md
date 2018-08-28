@@ -1,2 +1,3 @@
 # hello-word
-Just another repository 
+
+I´m Eric an student of engineering. I live in Argentina and like pasta.
